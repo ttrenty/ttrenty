@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I’m Thomas
+
+- 👀 I’m 22 years old and interested in Machine Learning, Knowledge Representation, Deep Learning, Quantum Computing, and much more.
+- 🌱 I’m a Master’s student in Computer Science, specializing in AI.
 
 <!--
 **ttrenty/ttrenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
